@@ -6,9 +6,8 @@ Perform analysis and visualizations on Kickstarter data to uncover trends relate
 
 The initial intended use of this analysis was to help an up and coming playright determine if there are specific factors that would help make her Kickerstarter campaign successful. Intially, this analysis was used to help the playright plan her own Kickerstarter campaign and set it up for success. Using the initial analysis, she looked to understand campaigns from start to finish and to setup her own Kickstarter campaign to mirror other successful campaigns in the same category.
 
-This analysis is now being expanded to look at how different Kickstarter play campaigns in the Theater category perform based on Kickstarter campaign funding goals and campaign launch dates.
-
-With that in mind, this analysis README report is focused on funding success based on launch date and goal amounts.
+This analysis is now being expanded to look at how different Kickstarter play campaigns in the Theater category perform based on Kickstarter campaign funding goals and campaign launch dates. The analysis is try to find ways in which the goals set and the month of the launch correlate to the success of the campaign. 
+With that in mind, this analysis README report is focused on funding success based on launch date and goal amounts
 
 ### Kickstarter Analysis Data
 The data for this analysis and the visualizations was sourced from https://www.acrowdfundingwebsite.com
@@ -25,12 +24,9 @@ Kickstarter goals in the data ranged from $1 to 100,000,000.00.
 #### Data campaign goals dollars 
 Kickstarter goals dollars in the data ranged from $1 to 100,000,000.00. 
 
-#### Data campaign pleadged dollars
+#### Data campaign pledged dollars
 Kickstarter pledged dollars in the data ranged from $1 to 100,000,000.00. 
 
-
-
-The analysis is try to find ways in which the goals set and the month of the launch correlate to the success of the campaign.
 
 ## Analysis Outcomes
 
