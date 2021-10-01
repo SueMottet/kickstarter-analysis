@@ -41,9 +41,8 @@ The repository contains the spreadsheet with the analysis and images for the rep
 
 ## Analysis and Challenges
 1. Relying on a README report to provide and summarize my finding is not my go-to presentation mode. I am a novice README writer.
-2. Try to keep my analysis work focused on using Excel (and the internet) as my only analysis tools was challenging for me. 
-Excel is part of go-to my toolset for data analysis but not usually my only data analysis tool. 
-I typically would use other tools in combination with Excel in my analysis work.
+2. Trying to keep my analysis work focused on using Excel (and the internet) as my only analysis tools was also challenging for me. 
+Excel is part of my go-to toolset for data analysis but not usually my only data analysis tool. I typically would use other tools in combination with Excel in my analysis work.
 3. This analysis was perform per a fixed set of instuctions, formating and scope to emphasize learning particular skills:
 
 ### Analysis of Outcomes Based on Launch Date
