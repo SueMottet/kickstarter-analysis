@@ -1,14 +1,34 @@
-# An Analysis of Kickerstarter Campaign Funding
+# Analysis of Kickerstarter Campaign Funding
 
-Perform analysis on Kickstarter data to uncover trends related to campaign funding success.
+Perform analysis and visualizations on Kickstarter data to uncover trends related to campaign funding success in Microsoft Excel.
 
 ## Analysis to Identify Factors that Determine Campaign Funding Outcomes
 
-The main purpose of this analysis is to look at how different Kickstarter play campaigns in the Theater category perform based on launch dates and funding goals. 
+The initial intended use of this analysis was to help an up and coming playright determine if there are specific factors that would help make her Kickerstarter campaign successful. Intially, this analysis was used to help the playright plan her own Kickerstarter campaign and set it up for success. Using the initial analysis, she looked to understand campaigns from start to finish and to setup her own Kickstarter campaign to mirror other successful campaigns in the same category.
 
-This analysis was perform per a fixed set of instuctions,formating and scope to emphasize learning particular skills:
+This analysis is now being expanded to look at how different Kickstarter play campaigns in the Theater category perform based on Kickstarter campaign funding goals and campaign launch dates.
 
-With that in mind, this analysis README report is focused on funding success based on launch date and goal amounts:
+With that in mind, this analysis README report is focused on funding success based on launch date and goal amounts.
+
+### Kickstarter Analysis Data
+The data for this analysis and the visualizations was sourced from https://www.acrowdfundingwebsite.com
+
+#### Data date range and number of campaigns included
+The Kickstarter campaign data included in the analysis was for 4114 international Kickstarter campaigns started from 2009 to 2017. 
+
+#### Data campaign outcomes included
+The data includes Kickstarter campaigns that were successful, canceled, failed and live. 
+
+#### Data campaign goals dollars 
+Kickstarter goals in the data ranged from $1 to 100,000,000.00. 
+
+#### Data campaign goals dollars 
+Kickstarter goals dollars in the data ranged from $1 to 100,000,000.00. 
+
+#### Data campaign pleadged dollars
+Kickstarter pledged dollars in the data ranged from $1 to 100,000,000.00. 
+
+
 
 The analysis is try to find ways in which the goals set and the month of the launch correlate to the success of the campaign.
 
@@ -17,7 +37,7 @@ The analysis is try to find ways in which the goals set and the month of the lau
 
 ## Analysis Files Included
  
-This README is provided in combination with Kickstarter campaign data for campaigns started from 2010 to 2017 and completed from 2011 to 2017
+This README is provided in combination with ...
 
 ## Repository Information
 The repository contains the spreadsheet with the analysis and images for the report
@@ -28,6 +48,7 @@ The repository contains the spreadsheet with the analysis and images for the rep
 2. Try to keep my analysis work focused on using Excel (and the internet) as my only analysis tools was challenging for me. 
 Excel is part of go-to my toolset for data analysis but not usually my only data analysis tool. 
 I typically would use other tools in combination with Excel in my analysis work.
+3. This analysis was perform per a fixed set of instuctions, formating and scope to emphasize learning particular skills:
 
 ### Analysis of Outcomes Based on Launch Date
 ![Outcomes Based on Launch Date ](/Outcomes_Based_on_Launch_Date.png)
