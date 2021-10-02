@@ -24,11 +24,13 @@ The data for this analysis and the visualizations was sourced from https://www.a
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-* Utilizes a created Years column of data using the Excel Year() which extracts the year from the 'Date Created Conversion' column for each included campaigh
-* Creates a pivot table made off the Kicker Starter data.
-* Pivot table setup included creating filters on the pivot table for filtering the data by Parent Category and Years
-* The data was presorted to present successful campaigns first
-
+* Creates a Years column of data using the Excel Year() function which extracts the year from the 'Date Created Conversion' for each included campaigh
+* Creates a pivot table made off the KickerStarter data 
+* Configures the pivot table creating filters for filtering the data by Parent Category and Years
+* Pivot table is filtered on "Parent Category" to only show the data for "theater" for this analysis
+* Pivot table data was filtered to include only "successful", "failed" and "canceled" campaigh outcomes
+* Data was presorted to present successful campaigns first
+* Line chart was created  and formated  with a Chart from the pivot table which visualizes the relationship between outcomes and launch month
 ![Theater Outcomes versus Launch Date](/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
