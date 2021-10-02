@@ -50,17 +50,17 @@ The analysis outcomes provide trends related to campaign funding success identif
 
 ### Analysis Challenges and Difficulties Encountered
 1. Tools: Relying on a README report to provide and summarize my finding is not my go-to presentation mode. Keeping the analysis work focused on using Excel (and the internet) as my only analysis tools was restrictive for me. Excel is part of my go-to toolset for data analysis but not usually my only data analysis tool. I typically would use other tools in combination with Excel in my analysis work.
-2. Fixed set of instructions: This analysis had fixed set of instuctions, formating requirements and scope to emphasize learning particular skills and was completed in a fixed timeframe of 2 weeks. 
+2. Fixed set of instructions: This analysis had a fixed set of instuctions, formating requirements and scope to emphasize learning particular skills and was completed in a fixed timeframe of 2 weeks. 
 
 ## Results
 
 ### Outcomes based on Launch Date
-There are certain launch months that provided better outcomes than others:
+Campaign launch date has some impact on the sucess of Theater play projects getting funded. There are certain launch months that provided better outcomes than others:
 * Most theater play campaigns were successful if launched in months other than December. 
 * Most Theater play caimpaigns launched in the months May and June and plays launched in these month were 66% successful. 
 * Success of launching Theater play campaigns in other months was between 57% and 63% successful.
 
-## Launch Date Sucess measures
+## Launch Date Sucess Measured
 * Most successful month to launch a Theater play project is June
 * Least successful month to launch a Theater play project is December
 * Theater play projects launched in other months were mostly successful as well
