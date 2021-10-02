@@ -58,24 +58,22 @@ The analysis outcomes provide trends related to campaign funding success identif
 ### Outcomes based on Launch Date
 There are certain launch months that provided better outcomes than others. Most theater play campaigns were successful if launched in months other than December. Most Theater play caimpaigns launched in the months May and June and plays launched in these month were 66% successful. The success of launching Theater play campaigns in other months was between 57% and 63% successful.
 
-## Launch Date Averages
+## Launch Date Sucess measures
 * Most successful month to launch a Theater play project is June
-* Least successful month to launch a project is December
+* Least successful month to launch a Theater play project is December
 * Theater play projects launched in other months were mostly successful as well
  
 ### Outcomes based on Goals
 There are certain ranges of goals that perform better than others. The highest percentage of success was for goals $1000 or under. The second highest percentage of success was for projects in the $35000 to $49,000 range. There were two projects with goals in excess of $50,000 that were successfully funded. 
+
 #### 1. Average Goals (Means)
 * Successful Theater play projects on average had goals of a little over $5000
 * Failed Theater play projects on average had goals of a little over $10,000
+
 #### 2. Median Goals
 * Successful Theater play projects had median goals of a little over $3000
 * Failed Theater play projects had median goals of a little over $3000
-## Data spread
-  -Range
-  -Variance
-  -Standard deviation
-  - quartiles
+
 ### Dataset limitations
 - What are some limitations of this dataset?
 1. Aged data: Data is from Kickstarter campaigns created between 2009 and 2017. (pre-COVID19 epidemic) Patterns may have changed in more recent years.
