@@ -50,7 +50,7 @@ The Outcomes Based on Goals analysis was completed in the Microsoft Excel file: 
 
 ![Outcomes vs Goals](/resources/Outcomes_vs_Goals.png)
 
-#### Analysis Challenges and Difficulties Encountered
+## Analysis Challenges and Difficulties Encountered
 Challenges and difficulties for this analysis work came down to tools and rules.
 1. Tools: Relying on a README report to provide and summarize my finding is not my go-to presentation mode. Keeping the analysis work focused on using Excel (and the internet) as my only analysis tools was restrictive for me. Excel is part of my go-to toolset for data analysis but not usually my only data analysis tool. I typically would use other tools in combination with Excel in my analysis work.
 2. Rules: This analysis had a fixed set of instuctions, formating requirements and scope to emphasize learning particular Microsoft Excel skills and was completed in a fixed timeframe of 2 weeks. 
