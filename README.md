@@ -10,9 +10,9 @@ This analysis is now being expanded to look at how different Kickstarter play ca
 With that in mind, this analysis README report is focused on funding success based on launch date and goal amounts
 
 ### Kickstarter Analysis Data
-* The data for this analysis and the visualizations was sourced from https://www.acrowdfundingwebsite.com
-The Kickstarter campaign data included in the analysis was for 4114 international Kickstarter campaigns started from 2009 to 2017. 
-* The data includes Kickstarter campaigns that were successful, canceled, failed and live. 
+The data for this analysis and the visualizations was sourced from https://www.acrowdfundingwebsite.com
+* included 4114 international Kickstarter campaigns started from 2009 to 2017. 
+* Successful, canceled, failed and live Kickstarter campaigns
 * Kickstarter goals dollars in the data ranged from $1 to 100,000,000.00. 
 * Kickstarter pledged dollars in the data ranged from $1 to 100,000,000.00. 
 
