@@ -94,7 +94,14 @@ Recommendation for additionals tables and charts include:
  * Adding chart to look at this data by country could provide further insights on country differences and different recommendation for each
 
 ## Recommendations
+Launching a Theater play campaign on Kickstarter is likely to be successful but there are factors that should be considered around launch dates and goals that can funding success. 
 
+### Launch Date Recommendations 
+Launching a Theater play campaign in the month of June if possible is recommended. May is also a good time to launch a Theater play campaign. Launching a Theater play campaign in December should be avoided if possible. All other months for launches were relatively successful as well. 
+
+
+### Campaign Goal Amount Recommendations 
+Keeping campaign goals less than $1000 if possible is recommended for highest funding success. Other goal ranges can be successful as well.
 
 ## References
 * Examples of README files and notes about how to write them. https://github.com/inessadl/readme
