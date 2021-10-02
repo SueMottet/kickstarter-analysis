@@ -88,6 +88,8 @@ There are certain ranges of goals that perform better than others. The highest p
 
 ## References
 * Examples of README files and notes about how to write them. https://github.com/inessadl/readme
-* Examples of similar analysis performed on the same dataset and limitations. https://github.com/leblabac/kickstarter-analysis
+* Examples of similar analysis performed on the same dataset and with similar limitations. https://github.com/leblabac/kickstarter-analysis
 * Timestamp converter. https://www.epochconverter.com/
 * What is a timestamp. https://websiteseochecker.com/blog/what-is-timestamp/
+* Help with Calculated Field & Item (Formulas) in a Pivot Table. https://excelchamps.com/pivot-table/calculation-in-pivot-table/
+* Help with coding varied coding and coding concepts https://stackoverflow.com/
