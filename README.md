@@ -35,13 +35,13 @@ The data for this analysis and the visualizations was sourced from https://www.a
 ![Theater Outcomes versus Launch Date](/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-
+* a worksheet to hold new calculate data for goals including:
+* *
 ![Outcomes vs Goals ](/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 1. Relying on a README report to provide and summarize my finding is not my go-to presentation mode.
-2. Trying to keep my analysis work focused on using Excel (and the internet) as my only analysis tools was also challenging for me. 
-Excel is part of my go-to toolset for data analysis but not usually my only data analysis tool. I typically would use other tools in combination with Excel in my analysis work.
+2. Trying to keep my analysis work focused on using Excel (and the internet) as my only analysis tools was also challenging for me. Excel is part of my go-to toolset for data analysis but not usually my only data analysis tool. I typically would use other tools in combination with Excel in my analysis work.
 3. This analysis was perform per a fixed set of instuctions, formating and scope to emphasize learning particular skills:
 
 
