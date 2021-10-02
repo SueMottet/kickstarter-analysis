@@ -32,7 +32,7 @@ The Outcomes Based on Launch Date analysis was completed in the Microsoft Excel 
 * Pivot table row labels have been changed to display months of the year and the data was sorted to present successful campaigns first for this analysis
 * Line chart was created and formated with a title from the pivot table which visualizes the relationship between outcomes and launch month
 
-![Theater Outcomes versus Launch Date](/Theater_Outcomes_vs_Launch.png)
+![Theater Outcomes versus Launch Date](/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 The Outcomes Based on Goals analysis was completed in the Microsoft Excel file: Kickstarter_Challenge.xls.
