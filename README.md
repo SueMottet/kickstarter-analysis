@@ -56,7 +56,7 @@ The analysis outcomes provide trends related to campaign funding success identif
 ## Results
 
 ### Outcomes based on Launch Date
-The analysis provides insights into which months were most successful for launch and which campaign goal ranges were most successful. 
+There are certain launch months that provided better outcomes than others. Most theater play campaigns were successful if launched in months other than December. Most Theater play caimpaigns launched in the months May and June and plays launched in these month were 66% successful. The success of launching Theater play campaigns in other months was between 57% and 63% successful.
 ## Data distribution - successful campaigns versus failed campaigns
  - How is the data distributed
    - Mean -  if every data point contributed the same amount what would that amount be
