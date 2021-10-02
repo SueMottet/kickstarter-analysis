@@ -69,12 +69,12 @@ There are certain launch months that provided better outcomes than others:
 There are certain ranges of goals that perform better than others. The highest percentage of success was for goals $1000 or under. The second highest percentage of success was for projects in the $35000 to $49,000 range. There were two projects with goals in excess of $50,000 that were successfully funded. 
 
 #### 1. Average Goals (Means)
-* Successful Theater play projects on average had goals of a little over $5000
-* Failed Theater play projects on average had goals of a little over $10,000
+* Successful US Theater play projects on average had goals of a little over $5000
+* Failed US Theater play projects on average had goals of a little over $10,000
 
 #### 2. Median Goals
-* Successful Theater play projects had median goals of a little over $3000
-* Failed Theater play projects had median goals of a little over $3000
+* Successful US Theater play projects had median goals of a little over $3000
+* Failed US Theater play projects had median goals of a little over $3000
 
 ### Dataset limitations
 1. Aged data: This analysis was performed in September 2021. Data is from Kickstarter campaigns created between 2009 and 2017. (pre-COVID19 epidemic) Patterns may have changed in more recent years.
