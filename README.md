@@ -57,7 +57,7 @@ Challenges and difficulties for this analysis work came down to tools and rules.
 
 ## Results: Factors that Determine Campaign Funding Outcomes
 
-### Outcomes based on Launch Date
+### Outcomes Based on Launch Date
 Campaign launch date has some impact on the success of Theater play projects getting funded. 
 
 There are certain launch months that provided better outcomes than others:
@@ -72,7 +72,7 @@ There are certain launch months that provided better outcomes than others:
 * Least successful month to launch a Theater play project is December
 * Theater play projects launched in other months were mostly successful as well
  
-### Outcomes based on Goals
+### Outcomes Based on Goals
 There are certain ranges of goals that perform better than others. The highest percentage of success was for goals $1000 or under. The second highest percentage of success was for projects with goals in the $35000 to $49,000 range. There were two projects with goals in excess of $50,000 that were successfully funded. 
 
 #### 1. Average Goals (Means)
@@ -83,16 +83,16 @@ There are certain ranges of goals that perform better than others. The highest p
 * Successful US Theater play projects had median goals of a little over $3000
 * Failed US Theater play projects had median goals of a little over $3000
 
-### Dataset limitations
+### Dataset Limitations
 There were some dataset limitations for the analysis. 
 
-Dataset limitations of note include:
+#### Dataset limitations of note include:
 1. Aged data: This analysis was performed in September 2021. Data is from Kickstarter campaigns created between 2009 and 2017. (pre-COVID19 epidemic) Patterns may have changed in more recent years.
 2. Dataset size: 4114 international Kickstarter campaigns
 3. Outliers: Campaign data contains some outliers that should be reviewed when using the results of this analysis
 
-### Additional useful visualization - tables and graphs
-Recommendation for additionals tables and charts include:
+### Additional Useful Visualization 
+#### Recommendation for additionals tables and charts include:
  * Adding a box and whisker Chart to identify Theater play data outliers for successful and failed campaigns could be useful in this analysis.
  * Adding chart to look at successful and failed launchs be weeks for the year and day of the week to provide more detailed launch date recommendations
  * Adding chart to look at this data by country could provide further insights on country differences and different recommendation for each
