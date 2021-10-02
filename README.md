@@ -35,8 +35,10 @@ The data for this analysis and the visualizations was sourced from https://www.a
 ![Theater Outcomes versus Launch Date](/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-* a worksheet to hold new calculate data for goals including:
-* *
+* Calculated outcome counts by goal ranges including:
+  * Number of Successful
+  * Number of Failed
+  * Number of Canceled
 ![Outcomes vs Goals ](/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
