@@ -86,9 +86,10 @@ There were some dataset limitations for the analysis. Dataset limitations of not
 3. Outliers: Campaign data contains some outliers that should be reviewed when using the results of this analysis
 
 ## Additional useful visualization -Tables and Graphs
- Adding a Box and Whisker Chart to identify Theater play data outliers for successful and failed campaigns could be useful in this analysis.
- Adding chart to look at successful and failed launchs be weeks for the year and day of the week could provide further launch recommendations
- Adding chart to look at this data by country could provide further insights on country differences and different recommendation for each
+Recommendation for additionals tables and charts include:
+ * Adding a box and whisker Chart to identify Theater play data outliers for successful and failed campaigns could be useful in this analysis.
+ * Adding chart to look at successful and failed launchs be weeks for the year and day of the week to provide more detailed launch date recommendations
+ * Adding chart to look at this data by country could provide further insights on country differences and different recommendation for each
 
 ## Recommendations
 
