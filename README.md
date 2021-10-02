@@ -46,12 +46,11 @@ The analysis outcomes provide trends related to campaign funding success identif
   * Percentage Canceled
 * Line chart was created and formated with a title from the calculations which visualizes the relationship between the outcomes and the goal ranges
 
-![Outcomes vs Goals ](/Outcomes_vs_Goals.png)
+![Outcomes vs Goals](/Outcomes_vs_Goals.png)
 
 ### Analysis Challenges and Difficulties Encountered
-1. Relying on a README report to provide and summarize my finding is not my go-to presentation mode.
-2. Trying to keep my analysis work focused on using Excel (and the internet) as my only analysis tools was also challenging for me. Excel is part of my go-to toolset for data analysis but not usually my only data analysis tool. I typically would use other tools in combination with Excel in my analysis work.
-3. This analysis was perform per a fixed set of instuctions, formating and scope to emphasize learning particular skills:
+1. Tools: Relying on a README report to provide and summarize my finding is not my go-to presentation mode. Keeping the analysis work focused on using Excel (and the internet) as my only analysis tools was restrictive for me. Excel is part of my go-to toolset for data analysis but not usually my only data analysis tool. I typically would use other tools in combination with Excel in my analysis work.
+2. Fixed set of instructions: This analysis had fixed set of instuctions, formating requirements and scope to emphasize learning particular skills and was completed in a fixed timeframe of 2 weeks. 
 
 ## Results
 
@@ -75,10 +74,9 @@ There are certain ranges of goals that perform better than others. The highest p
 * Failed Theater play projects had median goals of a little over $3000
 
 ### Dataset limitations
-- What are some limitations of this dataset?
 1. Aged data: Data is from Kickstarter campaigns created between 2009 and 2017. (pre-COVID19 epidemic) Patterns may have changed in more recent years.
 2. Dataset size: 4114 international Kickstarter campaigns
-3. Outliers:
+3. Outliers: The campaign data contains some outliers that should be reviewed when using the results of this analysis
 
 ## Additional possibly useful visualization 
 - What are some other possible tables and/or graphs that we could create?
