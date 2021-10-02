@@ -58,21 +58,6 @@ The analysis outcomes provide trends related to campaign funding success identif
 ### Outcomes based on Launch Date
 The analysis provides insights into which months were most successful for launch and which campaign goal ranges were most successful. 
 ## Data distribution - successful campaigns versus failed campaigns
-#### 1. Average Goals (Means)
-* Successful Theater play projects on average had goals of a little over $5000
-* Failed Theater play projects on average had goals of a little over $10,000
-#### 2. Median Goals
-* Successful Theater play projects had median goals of a little over $3000
-* Failed Theater play projects had median goals of a little over $3000
-## Data spread
-  -Range
-  -Variance
-  -Standard deviation
-  - quartiles
-
-### Outcomes based on Goals
-- What can you conclude about the Outcomes based on Goals?
-## Data distribution - successful campaigns versus failed campaigns
  - How is the data distributed
    - Mean -  if every data point contributed the same amount what would that amount be
    - Median - where is the midpoint of the data
@@ -84,6 +69,20 @@ The analysis provides insights into which months were most successful for launch
   -Standard deviation
   -interquartile range
   - quartiles - data percentiels - divided in 4 ranges lowest to highest
+ 
+### Outcomes based on Goals
+- What can you conclude about the Outcomes based on Goals?
+#### 1. Average Goals (Means)
+* Successful Theater play projects on average had goals of a little over $5000
+* Failed Theater play projects on average had goals of a little over $10,000
+#### 2. Median Goals
+* Successful Theater play projects had median goals of a little over $3000
+* Failed Theater play projects had median goals of a little over $3000
+## Data spread
+  -Range
+  -Variance
+  -Standard deviation
+  - quartiles
 ### Dataset limitations
 - What are some limitations of this dataset?
 1. Aged data: Data is from Kickstarter campaigns created between 2009 and 2017. (pre-COVID19 epidemic) Patterns may have changed in more recent years.
