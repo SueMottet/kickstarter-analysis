@@ -56,11 +56,13 @@ The analysis outcomes provide trends related to campaign funding success identif
 
 ### Outcomes based on Launch Date
 Campaign launch date has some impact on the sucess of Theater play projects getting funded. There are certain launch months that provided better outcomes than others:
-* Most theater play campaigns were successful if launched in months other than December. 
-* Most Theater play caimpaigns launched in the months May and June and plays launched in these month were 66% successful. 
-* Success of launching Theater play campaigns in other months was between 57% and 63% successful.
+1. Most theater play campaigns were successful
+   * Most theater play campaigns were successful if launched in months other than December. 
+   * Success of launching Theater play campaigns in other months was between 57% and 63% successful.
+2. Launching theater play campaigns in May and June is popular and usually successful
+   * Most Theater play caimpaigns launched in the months May and June and plays launched in these month were 66% successful. 
 
-## Launch Date Succss Measures
+## Launch Date Success Measures
 * Most successful month to launch a Theater play project is June
 * Least successful month to launch a Theater play project is December
 * Theater play projects launched in other months were mostly successful as well
