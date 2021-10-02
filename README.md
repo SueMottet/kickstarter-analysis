@@ -31,7 +31,7 @@ The analysis outcomes provide trends related to campaign funding success identif
 * Pivot table row labels have been changed to display months of the year and the data was sorted to present successful campaigns first for this analysis
 * Line chart was created and formated with a title from the pivot table which visualizes the relationship between outcomes and launch month
 
-![Theater Outcomes versus Launch Date](/Theater_Outcomes_vs_Launch.png)
+![Theater Outcomes versus Launch Date                                                  ](/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 * Goal ranges were created to calculate outcome goals
