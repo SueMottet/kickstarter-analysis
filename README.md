@@ -22,7 +22,7 @@ The Kickstarter campaign data included in the analysis was for 4114 internationa
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Theater Outcomes versus Launch Date](/Theater_Outcomes_vs_launch.png)
+![Theater Outcomes versus Launch Date](/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 ![Outcomes vs Goals ](/Outcomes_vs_Goals.png)
