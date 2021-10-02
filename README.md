@@ -74,7 +74,7 @@ There are certain ranges of goals that perform better than others. The highest p
 * Failed Theater play projects had median goals of a little over $3000
 
 ### Dataset limitations
-1. Aged data: Data is from Kickstarter campaigns created between 2009 and 2017. (pre-COVID19 epidemic) Patterns may have changed in more recent years.
+1. Aged data: This analysis was performed in September 2021. Data is from Kickstarter campaigns created between 2009 and 2017. (pre-COVID19 epidemic) Patterns may have changed in more recent years.
 2. Dataset size: 4114 international Kickstarter campaigns
 3. Outliers: Campaign data contains some outliers that should be reviewed when using the results of this analysis
 
