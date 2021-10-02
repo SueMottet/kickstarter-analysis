@@ -4,11 +4,11 @@ Perform analysis and visualizations on Kickstarter data to uncover trends relate
 
 ## Analysis to Identify Factors that Determine Campaign Funding Outcomes
 
-This analysis looks at how different Kickstarter play campaigns in the Theater category perform based on Kickstarter campaign funding goals and campaign launch dates. The analysis is trying to the playrigght find ways in which the goals set and the month of the launch correlate to the success of the campaign. 
+This analysis looks at how different Kickstarter play campaigns in the Theater category perform based on Kickstarter campaign funding goals and campaign launch dates. The analysis is created to help a playwright find ways in which the goals set and the month of the launch correlate to the success of the campaign. 
 With that in mind, this analysis README report is focused on funding success based on launch date and goal amounts
 
 ### Analysis Background
-This data analysis was initially used to help an up and coming playright determine if there are specific factors that would help make her Kickerstarter campaign successful. Intially, this analysis was used to help the playright plan her own Kickerstarter campaign and set it up for success. Using the initial analysis, she looked to understand campaigns from start to finish and to setup her own Kickstarter campaign to mirror other successful campaigns in the same category.
+This data analysis was initially used to help an up and coming playwright determine if there are specific factors that would help make her Kickerstarter campaign successful. Intially, this analysis was used to help the playright plan her own Kickerstarter campaign and set it up for success. Using the initial analysis, she looked to understand campaigns from start to finish and to setup her own Kickstarter campaign to mirror other successful campaigns in the same category.
 
 
 ### Kickstarter Analysis Data
