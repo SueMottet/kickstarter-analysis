@@ -15,8 +15,8 @@ This data analysis was initially used to help an up and coming playwright determ
 The data for this analysis was sourced from https://www.acrowdfundingwebsite.com and includes:
 * 4114 international Kickstarter campaigns started from 2009 to 2017. 
 * Successful, canceled, failed and live Kickstarter campaigns
-* Kickstarter goals dollars in the data ranged from $1 to 100,000,000.00. 
-* Kickstarter pledged dollars in the data ranged from $1 to 100,000,000.00. 
+* Kickstarter goals dollars in the data ranged from $1 to $100,000,000.00. 
+* Kickstarter pledged dollars in the data ranged from $0 to $100,824,000.00. 
 
 ## Analysis Outcomes
 
