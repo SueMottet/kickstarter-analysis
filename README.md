@@ -24,7 +24,10 @@ The data for this analysis and the visualizations was sourced from https://www.a
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-The analysis for outcomes based on launch included has be filter to the parent category: theater. 
+* Utilizes a created Years column of data using the Excel Year() which extracts the year from the 'Date Created Conversion' column for each included campaigh
+* Creates a pivot table made off the Kicker Starter data.
+* Pivot table setup included creating filters on the pivot table for filtering the data by Parent Category and Years
+* The data was presorted to present successful campaigns first
 
 ![Theater Outcomes versus Launch Date](/Theater_Outcomes_vs_Launch.png)
 
