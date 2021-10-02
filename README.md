@@ -24,7 +24,7 @@ The data for this analysis and the visualizations was sourced from https://www.a
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-* Creates a Years column of data using the Excel Year() function which extracts the year from the 'Date Created Conversion' for each included campaign
+* Creates a Years column of data using the Excel Year() function which extracts the year from the data column 'Date Created Conversion' for each included campaign.
 * Creates a pivot table made off the KickerStarter data
 * Configures the pivot table creating filters for filtering the data by Parent Category and Years
 * Pivot table is filtered on "Parent Category" to only show the data for "theater" for this analysis
