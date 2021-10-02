@@ -23,6 +23,7 @@ The data for this analysis was sourced from https://www.acrowdfundingwebsite.com
 The analysis outcomes provide trends related to campaign funding success identifying how different Kickstarter play campaigns in the Theater category perform based on Kickstarter campaign launch dates and campaign funding goals
 
 ### Analysis of Outcomes Based on Launch Date
+The Outcomes Based on Launch Date analysis was completed in the Microsoft Excel file: Kickstarter_Challenge.xls.
 * Creates a Years column of data using the Excel Year() function which extracts the year from the data column 'Date Created Conversion' for each included campaign.
 * Creates a pivot table made off the KickerStarter data
 * Configures the pivot table creating filters for filtering the data by Parent Category and Years
@@ -34,7 +35,7 @@ The analysis outcomes provide trends related to campaign funding success identif
 ![Theater Outcomes versus Launch Date](/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-The analysis was completed in the Microsoft Excel file (/Kickstarter_Challenge.xls)
+The Outcomes based on Goals analysis was completed in the Microsoft Excel file: Kickstarter_Challenge.xls.
 * Goal ranges were created to calculate outcome goals
 * Calculates outcome counts by goal ranges using COUNTIFS() function including:
   * Number of Successful
