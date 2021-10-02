@@ -35,12 +35,12 @@ The data for this analysis and the visualizations was sourced from https://www.a
 ![Theater Outcomes versus Launch Date](/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-* Calculates outcome counts by goal ranges including:
+* Calculates outcome counts by goal ranges using COUNTIFS() function including:
   * Number of Successful
   * Number of Failed
   * Number of Canceled
-* Calculates total projects by goal ranges
-* Calculates outcome percentages by goal ranges including:
+* Calculates total projects by goal ranges using SUM() function
+* Calculates outcome percentages by goal ranges using Excel operators and formating including:
   * Percentage Successful
   * Percentage Failed
   * Percentage Canceled
