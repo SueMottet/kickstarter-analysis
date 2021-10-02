@@ -54,23 +54,22 @@ The data for this analysis and the visualizations created was sourced from https
 2. Trying to keep my analysis work focused on using Excel (and the internet) as my only analysis tools was also challenging for me. Excel is part of my go-to toolset for data analysis but not usually my only data analysis tool. I typically would use other tools in combination with Excel in my analysis work.
 3. This analysis was perform per a fixed set of instuctions, formating and scope to emphasize learning particular skills:
 
-
 ## Results
 
 ### Outcomes based on Launch Date
-The analysis provides insights into which months were most successful launch
+The analysis provides insights into which months were most successful for launch and which campaign goal ranges were most successful. 
 ## Data distribution - successful campaigns versus failed campaigns
 #### 1. Average Goals (Means)
 * Successful Theater play projects on average had goals of a little over $5000
 * Failed Theater play projects on average had goals of a little over $10,000
-
+#### 2. Median Goals
+* Successful Theater play projects had median goals of a little over $3000
+* Failed Theater play projects had median goals of a little over $3000
 ## Data spread
   -Range
   -Variance
   -Standard deviation
   - quartiles
-  
-
 
 ### Outcomes based on Goals
 - What can you conclude about the Outcomes based on Goals?
@@ -88,9 +87,9 @@ The analysis provides insights into which months were most successful launch
   - quartiles - data percentiels - divided in 4 ranges lowest to highest
 ### Dataset limitations
 - What are some limitations of this dataset?
-1. Aged data. Data is from Kickstarter campaigns created between 2009 and 2017. (pre-COVID19 epidemic) Patterns may have changed in more recent years.
-2. Dataset size - 4114 international Kickstarter campaigns
-3. Outliers
+1. Aged data: Data is from Kickstarter campaigns created between 2009 and 2017. (pre-COVID19 epidemic) Patterns may have changed in more recent years.
+2. Dataset size: 4114 international Kickstarter campaigns
+3. Outliers:
 
 ## Additional possibly useful visualization 
 - What are some other possible tables and/or graphs that we could create?
