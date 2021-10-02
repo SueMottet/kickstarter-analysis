@@ -8,7 +8,7 @@ This analysis looks at how different Kickstarter play campaigns in the Theater c
 With that in mind, this analysis is focused on funding success based on launch date and goal amounts.
 
 ### Analysis Background
-This data analysis was initially used to help an up and coming playwright determine if there are specific factors that would help make her Kickerstarter campaign successful. Intially, this analysis was used to help the playright plan her own Kickerstarter campaign and set it up for success. Using the initial analysis, she looked to understand campaigns from start to finish and to setup her own Kickstarter campaign to mirror other successful campaigns in the same category.
+This analysis was initially used to help an up and coming playwright determine if there are specific factors that would help make her Kickerstarter campaign successful. Intially, this analysis was used to help the playright plan her own Kickerstarter campaign and set it up for success. Using the initial analysis, she looked to understand campaigns from start to finish and to setup her own Kickstarter campaign to mirror other successful campaigns in the same category.
 
 
 ### Kickstarter Analysis Data
