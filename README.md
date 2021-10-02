@@ -34,6 +34,7 @@ The analysis outcomes provide trends related to campaign funding success identif
 ![Theater Outcomes versus Launch Date](/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
+The analysis was completed in the Microsoft Excel file (/Kickstarter_Challenge.xls)
 * Goal ranges were created to calculate outcome goals
 * Calculates outcome counts by goal ranges using COUNTIFS() function including:
   * Number of Successful
