@@ -30,7 +30,7 @@ The data for this analysis and the visualizations was sourced from https://www.a
 * Pivot table is filtered on "Parent Category" to only show the data for "theater" for this analysis
 * Pivot table data is filtered to include only "successful", "failed" and "canceled" campaign outcomes for this analysis
 * Pivot table row labels have been changed to display months of the year and the data was sorted to present successful campaigns first for this analysis
-* Included line chart was created and formated with a chart title from the pivot table which visualizes the relationship between outcomes and launch month
+* Line chart was created and formated with a chart title from the pivot table which visualizes the relationship between outcomes and launch month
 ![Theater Outcomes versus Launch Date](/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
