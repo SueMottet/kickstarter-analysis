@@ -46,6 +46,7 @@ The data for this analysis and the visualizations created was sourced from https
   * Percentage Failed
   * Percentage Canceled
 * Line chart was created and formated with a title from the calculations which visualizes the relationship between the outcomes and the goal ranges
+
 ![Outcomes vs Goals ](/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
