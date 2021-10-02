@@ -22,9 +22,6 @@ The data for this analysis and the visualizations created was sourced from https
 
 The analysis outcomes provide trends related to campaign funding success identifying how different Kickstarter play campaigns in the Theater category perform based on Kickstarter campaign launch dates and campaign funding goals
 
-## Analysis and Challenges
-How different Kickstarter play campaigns in the Theater category perform based on Kickstarter campaign launch dates and campaign funding goals
-
 ### Analysis of Outcomes Based on Launch Date
 * Creates a Years column of data using the Excel Year() function which extracts the year from the data column 'Date Created Conversion' for each included campaign.
 * Creates a pivot table made off the KickerStarter data
@@ -51,7 +48,7 @@ How different Kickstarter play campaigns in the Theater category perform based o
 
 ![Outcomes vs Goals ](/Outcomes_vs_Goals.png)
 
-### Challenges and Difficulties Encountered
+### Analysis Challenges and Difficulties Encountered
 1. Relying on a README report to provide and summarize my finding is not my go-to presentation mode.
 2. Trying to keep my analysis work focused on using Excel (and the internet) as my only analysis tools was also challenging for me. Excel is part of my go-to toolset for data analysis but not usually my only data analysis tool. I typically would use other tools in combination with Excel in my analysis work.
 3. This analysis was perform per a fixed set of instuctions, formating and scope to emphasize learning particular skills:
