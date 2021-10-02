@@ -24,11 +24,11 @@ The analysis outcomes provide trends related to campaign funding success identif
 
 #### Analysis of Outcomes Based on Launch Date
 The Outcomes Based on Launch Date analysis was completed in the Microsoft Excel file: Kickstarter_Challenge.xls.
-* Creates a Years column of data using the Excel Year() function which extracts the year from the data column 'Date Created Conversion' for each included campaign.
+* Creates a Years column of data using the Excel Year() function which extracts the year from the data column 'Date Created Conversion' for each included campaign
 * Creates a pivot table made off the KickerStarter data
 * Configures the pivot table creating filters for filtering the data by Parent Category and Years
-* Pivot table is filtered on "Parent Category" to only show the data for "theater" for this analysis
-* Pivot table data is filtered to include only "successful", "failed" and "canceled" campaign outcomes for this analysis
+* Pivot table is filtered on Parent Category to only show the data for Theater for this analysis
+* Pivot table data is filtered to include only successful, failed and canceled campaign outcomes for this analysis
 * Pivot table row labels have been changed to display months of the year and the data was sorted to present successful campaigns first for this analysis
 * Line chart was created and formated with a title from the pivot table which visualizes the relationship between outcomes and launch month
 
@@ -80,11 +80,11 @@ There are certain ranges of goals that perform better than others. The highest p
 * Failed US Theater play projects on average had goals of a little over $10,000
 
 #### 2. Median Goals
-* Successful US Theater play projects had median goals of a little over $3000
-* Failed US Theater play projects had median goals of a little over $3000
+* Successful US Theater play projects had median goals of $3000
+* Failed US Theater play projects had median goals of a little over $5000
 
 ### Dataset Limitations
-There were some dataset limitations for the analysis. 
+There were dataset limitations for the analysis. 
 
 #### Dataset limitations of note include:
 1. Aged data: This analysis was performed in September 2021. Data is from Kickstarter campaigns created between 2009 and 2017. (pre-COVID19 epidemic) Patterns may have changed in more recent years.
