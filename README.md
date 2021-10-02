@@ -65,7 +65,7 @@ There are certain launch months that provided better outcomes than others:
    * Most theater play campaigns were successful if launched in months other than December. 
    * Success of launching Theater play campaigns in other months was between 57% and 63% successful.
 2. Launching theater play campaigns in May and June is popular and usually successful
-   * Most Theater play caimpaigns launched in the months May and June and plays launched in these month were 66% successful. 
+   * Most Theater play campaigns launched in the months May and June and plays launched in these month were 66% successful. 
 
 #### Launch Date Success Measures
 * Most successful month to launch a Theater play project is June
