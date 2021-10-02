@@ -21,6 +21,8 @@ The data for this analysis and the visualizations created was sourced from https
 
 ## Analysis Outcomes
 
+Trends related to campaign funding success for how different Kickstarter play campaigns in the Theater category perform based on Kickstarter campaign launch dates and campaign funding goals
+
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
