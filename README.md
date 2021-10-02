@@ -58,13 +58,12 @@ The data for this analysis and the visualizations created was sourced from https
 ## Results
 
 ### Outcomes based on Launch Date
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+The analysis provides insights into which months were most successful launch
 ## Data distribution - successful campaigns versus failed campaigns
- - How is the data distributed
-   - Mean -  if every data point contributed the same amount what would that amount be
-   - Median - where is the midpoint of the data
-   - Mode - what values show up the most
-   - Is the data skewed left or right
+#### 1. Average Goals (Means)
+* Successful Theater play projects on average had goals of a little over $5000
+* Failed Theater play projects on average had goals of a little over $10,000
+
 ## Data spread
   -Range
   -Variance
