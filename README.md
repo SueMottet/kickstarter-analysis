@@ -85,10 +85,13 @@ There were some dataset limitations for the analysis. Dataset limitations of not
 2. Dataset size: 4114 international Kickstarter campaigns
 3. Outliers: Campaign data contains some outliers that should be reviewed when using the results of this analysis
 
-## Additional possibly useful visualization 
-- What are some other possible tables and/or graphs that we could create?
-  - Measures of central tendency 
-    -Mean, Median Mode
+## Additional useful visualization -Tables and Graphs
+ Adding a Box and Whisker Chart to identify Theater play data outliers for successful and failed campaigns could be useful in this analysis.
+ Adding chart to look at successful and failed launchs be weeks for the year and day of the week could provide further launch recommendations
+ Adding chart to look at this data by country could provide further insights on country differences and different recommendation for each
+
+## Recommendations
+
 
 ## References
 * Examples of README files and notes about how to write them. https://github.com/inessadl/readme
