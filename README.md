@@ -48,7 +48,7 @@ The Outcomes Based on Goals analysis was completed in the Microsoft Excel file: 
   * Percentage Canceled
 * Line chart was created and formated with a title from the calculations which visualizes the relationship between the outcomes and the goal ranges
 
-![Outcomes vs Goals](/Outcomes_vs_Goals.png)
+![Outcomes vs Goals](/resources/Outcomes_vs_Goals.png)
 
 ### Analysis Challenges and Difficulties Encountered
 Challenges and difficulties for this analysis work came down to tools and rules.
