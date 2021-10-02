@@ -89,7 +89,7 @@ Dataset limitations of note include:
 2. Dataset size: 4114 international Kickstarter campaigns
 3. Outliers: Campaign data contains some outliers that should be reviewed when using the results of this analysis
 
-## Additional useful visualization -Tables and Graphs
+## Additional useful visualization - tables and graphs
 Recommendation for additionals tables and charts include:
  * Adding a box and whisker Chart to identify Theater play data outliers for successful and failed campaigns could be useful in this analysis.
  * Adding chart to look at successful and failed launchs be weeks for the year and day of the week to provide more detailed launch date recommendations
