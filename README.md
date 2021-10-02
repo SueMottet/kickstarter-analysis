@@ -18,12 +18,12 @@ The data for this analysis and the visualizations created was sourced from https
 * Kickstarter goals dollars in the data ranged from $1 to 100,000,000.00. 
 * Kickstarter pledged dollars in the data ranged from $1 to 100,000,000.00. 
 
-
 ## Analysis Outcomes
 
-Trends related to campaign funding success for how different Kickstarter play campaigns in the Theater category perform based on Kickstarter campaign launch dates and campaign funding goals
+The analysis outcomes provide trends related to campaign funding success identifying how different Kickstarter play campaigns in the Theater category perform based on Kickstarter campaign launch dates and campaign funding goals
 
 ## Analysis and Challenges
+How different Kickstarter play campaigns in the Theater category perform based on Kickstarter campaign launch dates and campaign funding goals
 
 ### Analysis of Outcomes Based on Launch Date
 * Creates a Years column of data using the Excel Year() function which extracts the year from the data column 'Date Created Conversion' for each included campaign.
