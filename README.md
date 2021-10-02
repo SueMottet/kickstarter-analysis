@@ -35,6 +35,7 @@ The data for this analysis and the visualizations created was sourced from https
 ![Theater Outcomes versus Launch Date](/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
+* Goal ranges were created to calculate outcome goals
 * Calculates outcome counts by goal ranges using COUNTIFS() function including:
   * Number of Successful
   * Number of Failed
@@ -44,7 +45,7 @@ The data for this analysis and the visualizations created was sourced from https
   * Percentage Successful
   * Percentage Failed
   * Percentage Canceled
-
+* Line chart was created and formated with a title from the calculations which visualizes the relationship between the outcomes and the goal ranges
 ![Outcomes vs Goals ](/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
