@@ -71,7 +71,7 @@ The analysis provides insights into which months were most successful for launch
   - quartiles - data percentiels - divided in 4 ranges lowest to highest
  
 ### Outcomes based on Goals
-- What can you conclude about the Outcomes based on Goals?
+There are certain ranges of goals that perform better than others. The highest percentage of success was for goals $1000 or under. The second highest percentage of success was for projects in the $35000 to $49,000 range. There were two projects with goals in excess of $50,000 that were successfully funded. 
 #### 1. Average Goals (Means)
 * Successful Theater play projects on average had goals of a little over $5000
 * Failed Theater play projects on average had goals of a little over $10,000
