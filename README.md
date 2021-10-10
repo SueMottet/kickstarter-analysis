@@ -73,7 +73,7 @@ There are certain launch months that provided better outcomes than others:
 * Theater play projects launched in other months were mostly successful as well
  
 ### Outcomes Based on Goals
-There are certain ranges of goals that perform better than others. The highest percentage of success was for goals $1000 or under. The second highest percentage of success was for projects with goals in the $35000 to $49,000 range. There were two projects with goals in excess of $50,000 that were successfully funded. 
+There are certain ranges of goals that perform better than others. The highest percentage of success was for goals $1000 or under. The second highest percentage of success was for projects with goals in the $35,000 to $49,000 range. There were two projects with goals in excess of $50,000 that were successfully funded. 
 
 #### 1. Average Goals (Means)
 * Successful US Theater play projects on average had goals of a little over $5000
