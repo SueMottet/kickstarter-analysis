@@ -114,3 +114,4 @@ Keeping campaign goals less than $1000 if possible is recommended for highest fu
 * What is a timestamp. https://websiteseochecker.com/blog/what-is-timestamp/
 * Help with Calculated Field & Item (Formulas) in a Pivot Table. https://excelchamps.com/pivot-table/calculation-in-pivot-table/
 * Help with coding varied coding and coding concepts https://stackoverflow.com/
+* Git Stash https://git-scm.com/docs/git-stash
