@@ -117,3 +117,8 @@ Keeping campaign goals less than $1000 if possible is recommended for highest fu
 * Git Stash https://git-scm.com/docs/git-stash
 * Excel download and install documentation https://support.office.com/en-us/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658
 * Excel Update documentation https://support.office.com/en-ie/article/update-office-with-microsoft-update-f59d3f9d-bd5d-4d3b-a08e-1dd659cf5282
+* What Is the Interquartile Range Rule? https://www.thoughtco.com/what-is-the-interquartile-range-rule-3126244
+* Git Hub website https://github.com/
+* Compress and uncompress zip files https://support.microsoft.com/en-us/help/14200/windows-compress-uncompress-zip-files
+* Git Hub markdown format Help https://help.github.com/en/articles/basic-writing-and-formatting-syntax
+* 
