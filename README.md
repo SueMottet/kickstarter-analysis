@@ -121,4 +121,3 @@ Keeping campaign goals less than $1000 if possible is recommended for highest fu
 * Git Hub website https://github.com/
 * Compress and uncompress zip files https://support.microsoft.com/en-us/help/14200/windows-compress-uncompress-zip-files
 * Git Hub markdown format Help https://help.github.com/en/articles/basic-writing-and-formatting-syntax
-* 
